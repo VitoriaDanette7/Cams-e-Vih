@@ -1,0 +1,44 @@
+body {
+
+     text-align: center;  
+     background: #d3a9e6;
+     font-size: 25px;
+}
+
+em strong {
+    color: rgb(20, 19, 19);
+}
+#banner {
+    width: 40%;
+}
+.principal {
+background-color: #d3a9e6;
+}
+
+h1{
+    text-align: center;
+    height: 80x;
+    border: 7px solid rgb(108, 14, 191);
+}
+
+.beneficios {
+    background-color: #7f27a8;
+}
+
+h2{ 
+    font-size: 30px;
+    font-style: italic;  
+}
+
+.itens {
+    font-size: 25px;
+    font-style: ;
+    color: ;
+}
+
+ul { 
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
